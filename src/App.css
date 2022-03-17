@@ -1,0 +1,17 @@
+.App{
+
+    text-align: center;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background: linear-gradient(
+        90deg, rgba(235, 7, 7, 0.2) 0%,
+        rgba(100, 115, 255, 0.2) 100%
+    );
+}
